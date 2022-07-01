@@ -1,3 +1,6 @@
+from msilib.schema import IniFile
+from turtle import update
+from unittest import result
 from newsapi import NewsApiClient
 import json
 
@@ -5,7 +8,7 @@ api = NewsApiClient(api_key='b575efe42ace400b8178b767afca23aa')
 
 top_headlines = api.get_top_headlines(country='ph')
 
-everything = api.get_everything(q='bongbong marcos', language='en')
+everything = api.get_everything(q='bongbong marcos', language='en', sort_by='popularity')
 
 with open('everything.json', 'w') as fp: 
     json.dump(everything, fp, indent=4)
