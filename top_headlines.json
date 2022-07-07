@@ -1,58 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 28,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Business Wire"
+            },
+            "author": null,
+            "title": "CAPSTONE Satellite, Designed and Built by Terran Orbital, Successfully Deploys from Rocket Lab Lunar Photon into Lunar Transfer Orbit - Business Wire",
+            "description": "Terran Orbital Corporation (NYSE: LLAP), a global leader in satellite solutions, primarily serving the United States and Allied aerospace and defense",
+            "url": "https://www.businesswire.com/news/home/20220705005164/en/CAPSTONE-Satellite-Designed-and-Built-by-Terran-Orbital-Successfully-Deploys-from-Rocket-Lab-Lunar-Photon-into-Lunar-Transfer-Orbit",
+            "urlToImage": "https://mms.businesswire.com/media/20220705005164/en/1503672/23/CAPSTONE_PRESS.jpg",
+            "publishedAt": "2022-07-07T10:00:00Z",
+            "content": "BOCA RATON, Fla.--(BUSINESS WIRE)--Terran Orbital Corporation (NYSE: LLAP), a global leader in satellite solutions, primarily serving the United States and Allied aerospace and defense industries, to\u2026 [+5207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "LIVE | FIBA 3x3 Asia Cup 2022 | Day 2/Session 3 - FIBA - The Basketball Channel",
+            "description": "Join us to watch #live Day 2/Session 3 of the FIBA 3x3 Asia Cup tournament, held in Singapore.  #3x3AsiaSchedule:6:00PM China vs Tonga | Men Qualifying Draw ...",
+            "url": "https://www.youtube.com/watch?v=YJ6fkdpXYTQ",
+            "urlToImage": "https://i.ytimg.com/vi/YJ6fkdpXYTQ/maxresdefault_live.jpg",
+            "publishedAt": "2022-07-07T09:55:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Harry Baker",
+            "title": "Red supergiant stars 'dance' because they have too much gas - Livescience.com",
+            "description": "The light they produce wobbles around, making them hard to pin down.",
+            "url": "https://www.livescience.com/dancing-red-supergiant-stars",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UZJUJioPMPA2HfZM7TwvrU-1200-80.jpg",
+            "publishedAt": "2022-07-07T09:00:00Z",
+            "content": "An artist's impression of exoplanets orbiting a red supergiant. The bright light in the distance comes from a faraway star of a similar size. (Image credit: Shutterstock)\r\n(opens in new tab)Scientist\u2026 [+5654 chars]"
+        },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Adela Suliman",
-            "title": "'Technoblade,' Minecraft gamer and YouTube star, dies of cancer - The Washington Post",
-            "description": "The popular American online gamer prepared a message for his 11 million YouTube followers before his death \u2014 and finally revealed his real name, Alex.",
-            "url": "https://www.washingtonpost.com/video-games/2022/07/01/technoblade-cancer-dead-minecraft-youtube/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYMX2LDSZVDVNNKU6IODU76AK4.jpg&w=1440",
-            "publishedAt": "2022-07-01T14:35:03Z",
-            "content": "Placeholder while article actions load\r\nA popular American gamer, known to his 11 million YouTube followers as Technoblade, has died of cancer at age 23, his family said on Thursday night.\r\nIn a vide\u2026 [+4202 chars]"
+            "author": "Amr Nabil and Isabel Debre\u2009|\u2009AP",
+            "title": "A hajj closer to normal: 1 million Muslims begin pilgrimage - The Washington Post",
+            "description": "One million pilgrims from across the globe are gathering in the holy city of Mecca in Saudi Arabia to perform the initial rites of the hajj",
+            "url": "https://www.washingtonpost.com/world/a-hajj-closer-to-normal-1-million-muslims-begin-pilgrimage/2022/07/07/948aa38e-fdc2-11ec-b39d-71309168014b_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SQ2QO3H5YII6ZM45OEYJC2ABJM.jpg&w=1440",
+            "publishedAt": "2022-07-07T08:36:00Z",
+            "content": "Comment on this story\r\nMECCA, Saudi Arabia It is a scene that stirs hope and relief for Muslims around the world.\r\nOne million pilgrims from across the globe amassed on Thursday in the holy city of M\u2026 [+4777 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Businessmirror.com.ph"
-            },
-            "author": "Lito U. Gagni",
-            "title": "Naval mines 'problematic' for Pinoy sailors in Black Sea ships\u2013source | Lito U. Gagni - BusinessMirror",
-            "description": "NAVAL mines floating in the Black Sea apparently remain a problem for Filipino sailors and others as dozens of ships \u201cmarooned\u201d need to ensure a safe landing at Kyiv ports.\u00a0 The mines, according to Russian sources, have been left there floating by Ukraine in \u2026",
-            "url": "https://businessmirror.com.ph/2022/07/01/naval-mines-problematic-for-pinoy-sailors-in-black-sea-ships-source/",
-            "urlToImage": "https://businessmirror.com.ph/wp-content/uploads/2020/11/BusinessMirror-BM-lettermark.jpg",
-            "publishedAt": "2022-07-01T13:56:10Z",
-            "content": "NAVAL mines floating in the Black Sea apparently remain a problem for Filipino sailors and others as dozens of ships marooned need to ensure a safe landing at Kyiv ports.\u00a0\r\nThe mines, according to Ru\u2026 [+1747 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Businessmirror.com.ph"
-            },
-            "author": "Bloomberg News",
-            "title": "Putin offers to finance railway project in new Indonesian capital | Bloomberg News - BusinessMirror",
-            "description": "President Vladimir Putin offered to have Russian Railways invest in Indonesia\u2019s new capital, in a sign of warming ties with Southeast Asia\u2019s biggest economy as the US and its allies seek to isolate Moscow. Putin said Moscow could take part in President Joko W\u2026",
-            "url": "https://businessmirror.com.ph/2022/07/01/putin-offers-to-finance-railway-project-in-new-indonesian-capital/",
-            "urlToImage": "https://businessmirror.com.ph/wp-content/uploads/2020/11/BusinessMirror-BM-lettermark.jpg",
-            "publishedAt": "2022-07-01T13:45:11Z",
-            "content": "President Vladimir Putin offered to have Russian Railways invest in Indonesias new capital, in a sign of warming ties with Southeast Asias biggest economy as the US and its allies seek to isolate Mos\u2026 [+963 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ReliefWeb"
+                "name": "Moodys.com"
             },
             "author": null,
-            "title": "No room for complacency - Monkeypox cases have triped in the European Region over the past two weeks - World - ReliefWeb",
-            "description": "News and Press Release in English on World about Health and Epidemic; published on 1 Jul 2022 by WHO",
-            "url": "https://reliefweb.int/report/world/no-room-complacency-monkeypox-cases-have-triped-european-region-over-past-two-weeks",
-            "urlToImage": "https://reliefweb.int/modules/custom/reliefweb_meta/images/disaster-type/EP.png",
-            "publishedAt": "2022-07-01T13:12:11Z",
-            "content": "Statement by WHO Regional Director for Europe, Dr Hans Henri P. Kluge\r\nCopenhagen, 1 July 2022\r\nToday, I am intensifying my call for governments and civil society to scale up efforts in the coming we\u2026 [+6233 chars]"
+            "title": "Moody's affirms Want Want's A3 rating; outlook remains stable - Moody's",
+            "description": "Rating Action",
+            "url": "https://www.moodys.com/research/Moodys-affirms-Want-Wants-A3-rating-outlook-remains-stable--PR_467687",
+            "urlToImage": "http://www.moodys.com/_layouts2/Mdc/Images/researchdoc_logo.gif",
+            "publishedAt": "2022-07-07T08:10:12Z",
+            "content": "Hong Kong, July 07, 2022 -- Moody's Investors Service has affirmed Want Want China Holdings Limited's A3 issuer rating.\r\nThe outlook remains stable.\r\n\"The rating affirmation reflects our expectation \u2026 [+10794 chars]"
         },
         {
             "source": {
@@ -60,103 +73,116 @@
                 "name": "Rappler"
             },
             "author": null,
-            "title": "FALSE: Fossil fuel-free technologies for economies not yet invented - Rappler",
-            "description": "Countries like Sweden, Germany, Portugal, Japan, and more have committed to renewable energy technology to move away from fossil fuels",
-            "url": "https://www.rappler.com/newsbreak/fact-check/fossil-fuel-free-technologies-economies-not-yet-invented/",
-            "urlToImage": "https://www.rappler.com/tachyon/2022/06/marcos-inaugural-national-museum-june-30-2022-005.jpg",
-            "publishedAt": "2022-07-01T11:55:42Z",
-            "content": "At a glance\r\n<ul><li>Claim:\u00a0 Sustainable fossil-free technologies have yet to be invented to support entire economies.\u00a0</li><li>Rating: FALSE.\u00a0</li><li>Facts: Countries like Sweden, Germany, Portugal\u2026 [+1514 chars]"
+            "title": "Monde Nissin says Lucky Me! noodles safe to eat despite Europe warnings - Rappler",
+            "description": "Monde Nissin says ethylene oxide is not added to its products but is used to prevent microbial growth in spices. After processing, traces of the substance may still show.",
+            "url": "https://www.rappler.com/business/monde-nissin-statement-lucky-me-recall-order-ethylene-oxide/",
+            "urlToImage": "https://www.rappler.com/tachyon/2022/07/Screen-Shot-2022-07-07-at-3.01.00-PM.png",
+            "publishedAt": "2022-07-07T08:05:05Z",
+            "content": "MANILA, Philippines Monde Nissin on Thursday, July 7, said its popular instant noodle brand Lucky Me! is safe to consume despite health warnings and a recall order in some European countries.\r\nFood r\u2026 [+1955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GMA News"
+            },
+            "author": "LLANESCA T. PANTI, GMA News",
+            "title": "Duterte Youth party-list seeks to rename NAIA to Manila Int'l Airport - GMA News Online",
+            "description": "Duterte Youth party-list Representative Ducielle Cardema has refiled a measure seeking to change the name of the Ninoy Aquino International Airport (NAIA) back to Manila International Airport (MIA).&nbsp;",
+            "url": "https://www.gmanetwork.com/news/topstories/nation/837367/duterte-party-list-seeks-to-rename-naia-to-manila-int-l-airport/story/",
+            "urlToImage": "https://images.gmanews.tv/webpics/2021/05/NAIA_2021_05_25_13_29_56.JPG",
+            "publishedAt": "2022-07-07T07:40:32Z",
+            "content": "Duterte Youth party-list Representative Ducielle Cardema has refiled a measure seeking to change the name of the Ninoy Aquino International Airport (NAIA) back to Manila International Airport (MIA).\u00a0\u2026 [+2125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sean Keane",
+            "title": "God of War Ragnar\u00f6k Launches Nov. 9, Gets New Trailer - CNET",
+            "description": "Kratos and Atreus return for the holidays. The game's Collector's and J\u00f6tnar Editions will also come with a replica of Thor's hammer Mj\u00f6lnir.",
+            "url": "https://www.cnet.com/tech/gaming/god-of-war-ragnarok-launches-nov-9-new-trailer/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/367e5739253dc5caaf421334a778477aa3714389/2022/07/06/7e5a4996-74e4-4c72-a9de-6bfd876d2364/screenshot-2022-07-06-at-09-14-43.png?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-07-07T06:27:56Z",
+            "content": "God of War Ragnar\u00f6k hits PS5 and PS4 on Nov. 9, Sony revealed Wednesday. The action-adventure video game also got a new CGI trailer\u00a0that sees Kratos and son Atreus in battle.\r\nRagnarok's fancy Collec\u2026 [+1136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Trailblazing Filipino drag queen honored during annual 'Invasion of the Pines' | TFC News USA - ABS-CBN News",
+            "description": "Filipinos in New York joined an annual Independence Day event that began after a drag queen was denied service to a restaurant in Fire Island Pines in 1976. ...",
+            "url": "https://www.youtube.com/watch?v=_YcqiwC-W1U",
+            "urlToImage": "https://i.ytimg.com/vi/_YcqiwC-W1U/maxresdefault.jpg",
+            "publishedAt": "2022-07-07T06:26:22Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "Gamingonphone.com"
             },
-            "author": "Rohit Tiwari",
-            "title": "Free Fire Homer Top-up event: Here's how to get the brand new character for free - GamingonPhone",
-            "description": "Garena has finally introduced a brand-new character with their complete bundle in Free Fire through a top-up event after a prolonged period. This top-up event always comes with a unique event style an",
-            "url": "https://gamingonphone.com/news/free-fire-homer-top-up-event-guide-tips/",
-            "urlToImage": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2022/07/Free-Fire-Homer-Top-Up-Event-Cover.jpg?fit=1024%2C575&ssl=1",
-            "publishedAt": "2022-07-01T10:01:21Z",
-            "content": "Garena has finally introduced a brand-new character with their complete bundle in Free Fire through a top-up event after a prolonged period. This top-up event always comes with a unique event style a\u2026 [+1814 chars]"
+            "author": "Staff Team",
+            "title": "Fortnite Chapter 3 Season 3: How to unlock the Xander skin for free - GamingonPhone",
+            "description": "The Xander skin was witnessed in the files in Chapter 2 Season 5, but after that Fortnite never brought any update about it. But as the new update is around the corner Fortnite decided to add the forg",
+            "url": "https://gamingonphone.com/guides/fortnite-chapter-3-season-3-how-to-unlock-the-xander-skin-for-free/",
+            "urlToImage": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2022/07/Fortnite-Xander-skin.jpg?fit=1280%2C720&ssl=1",
+            "publishedAt": "2022-07-07T05:40:09Z",
+            "content": "The Xander skin was witnessed in the files in Chapter 2 Season 5, but after that Fortnite never brought any update about it. But as the new update is around the corner Fortnite decided to add the for\u2026 [+1714 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Philippine Star"
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "DOH: Positivity rates in Metro Manila, 3 other regions exceed WHO benchmark - Philstar.com",
-            "description": "In Metro Manila, the positivity rate climbed to 8.2% from 5.8%.",
-            "url": "https://www.philstar.com/headlines/2022/07/01/2192333/doh-positivity-rates-metro-manila-3-other-regions-exceed-who-benchmark",
-            "urlToImage": "https://media.philstar.com/photos/2022/07/01/basaan-02_2022-07-01_17-29-41.jpg",
-            "publishedAt": "2022-07-01T09:33:00Z",
-            "content": "MANILA, Philippines \u2014 The Department of Health said Friday that COVID-19 positivity rates in Metro Manila and three other regions\u00a0surpassed the threshold set by the World Health Organization.\r\nLatest\u2026 [+2029 chars]"
+            "author": "Ravi Buddhavarapu",
+            "title": "Malaysia fuel subsidies offer some reprieve from inflation, says economist - CNBC",
+            "description": "Malaysia is in an enviable position because fuel subsidies have shielded households from higher oil prices, according to an economist from Oxford Economics.",
+            "url": "https://www.cnbc.com/2022/07/07/malaysia-fuel-subsidies-offer-consumers-reprieve-from-inflation-says-economist.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107084928-1657097934504-gettyimages-1241275307-MALAYSIA_ECONOMY.jpeg?v=1657097708&w=1920&h=1080",
+            "publishedAt": "2022-07-07T05:12:12Z",
+            "content": "Malaysia is in an \"enviable\" position because fuel subsidies have shielded households from higher oil prices, according to an economist.\r\n\"Even though we're seeing this acceleration in inflation, and\u2026 [+2249 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Inquirer.net"
             },
-            "author": "INQUIRER.net",
-            "title": "Bongbong Marcos\u2019 plans, priorities get support from senators - INQUIRER.net",
-            "description": "MANILA, Philippines \u2014 Four senators on Friday expressed support for the plans and programs of the administration of President Ferdinand \u201cBongbong\u201d Marcos Jr.\r\n\r\nSenator Joel Villanueva took",
+            "author": "Tetch Torres-Tupas",
+            "title": "SC suspends judge for uttering homophobic slurs in court - INQUIRER.net",
+            "description": "MANILA, Philippines \u2014 The Supreme Court (SC) has suspended a Metropolitan Trial Court (MeTC) in Manila for uttering homophobic slurs in court.\r\n\r\nAn 18-page decision, the high court",
             "url": "https://www.inquirer.net",
-            "urlToImage": "https://newsinfo.inquirer.net/files/2022/07/WhatsApp-Image-2022-07-01-at-5.19.16-PM-620x324.jpeg",
-            "publishedAt": "2022-07-01T09:31:00Z",
-            "content": "FILE PHOTOS: Senators Joel Villanueva, Bong Go, Sonny Angara, and Francis \u201cChiz\u201d Escudero.\r\nMANILA, Philippines Four senators on Friday expressed support for the plans and programs of the administrat\u2026 [+4304 chars]"
+            "urlToImage": "https://newsinfo.inquirer.net/files/2020/01/Judge-.jpg",
+            "publishedAt": "2022-07-07T04:30:00Z",
+            "content": "INQUIRER.net stock photo\r\nMANILA, Philippines The Supreme Court (SC) has suspended a Metropolitan Trial Court (MeTC) in Manila for uttering homophobic slurs in court.\r\nAn 18-page decision, the high c\u2026 [+2822 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Mindanews.com"
-            },
-            "author": "Ferdinandh B. Cabrera",
-            "title": "Dengue outbreak declared in BARMM - Minda News",
-            "description": "The dengue-carrying Aedes egypti mosquito, so full. With my blood? MindaNews photo by BOBBY TIMONERA COTABATO CITY (MindaNews / 1 July) \u2013 The Ministry of Health in the Bangsamoro Autonomous Region \u2026",
-            "url": "https://www.mindanews.com/top-stories/2022/07/dengue-outbreak-declared-in-barmm/",
-            "urlToImage": "https://www.mindanews.com/wp-content/uploads/2020/10/17bugs4web.jpg",
-            "publishedAt": "2022-07-01T08:54:52Z",
-            "content": "The dengue-carrying Aedes egypti mosquito, so full. With my blood? MindaNews photo by BOBBY TIMONERA\r\nCOTABATO CITY (MindaNews / 1 July) The Ministry of Health in the Bangsamoro Autonomous Region in \u2026 [+1754 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Manila Times"
-            },
-            "author": "Agence France-Presse",
-            "title": "World Bank creates fund to better prevent, respond to pandemics - The Manila Times",
-            "description": "Washington, United States: The World Bank's board on Thursday (Friday in Manila) approved creation of a fund meant to finance investments in strengthening the fight against...",
-            "url": "https://www.manilatimes.net/2022/07/02/news/world/world-bank-creates-fund-to-better-prevent-respond-to-pandemics/1849412",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2022/07/01/84833.jpg",
-            "publishedAt": "2022-07-01T08:05:09Z",
-            "content": "Washington, United States: The World Bank's board on Thursday (Friday in Manila) approved creation of a fund meant to finance investments in strengthening the fight against pandemics.\r\nThe fund will \u2026 [+1869 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nanowerk"
+                "name": "Rappler"
             },
             "author": null,
-            "title": "Capturing the onset of galaxy rotation in the early universe - Nanowerk",
-            "description": "Astronomers detect the most distant galaxy rotation ever observed, suggesting an initial stage of rotational motion development.",
-            "url": "https://www.nanowerk.com/news2/space/newsid=60991.php",
-            "urlToImage": "https://www.nanowerk.com/news2/space/id60991.jpg",
-            "publishedAt": "2022-07-01T06:27:16Z",
-            "content": "Nanowerk Newsletter\r\nGet our Space Exploration news updates to your inbox!"
+            "title": "KBL's Seoul Samsung signs Gilas prospect Will Navarro - Rappler",
+            "description": "The Seoul Samsung Thunders are the latest KBL team to join the Filipino import recruitment drive with the signing of Gilas forward Will Navarro",
+            "url": "https://www.rappler.com/sports/gilas-pilipinas/korean-basketball-league-signs-prospect-will-navarro-july-7-2022/",
+            "urlToImage": "https://www.rappler.com/tachyon/2022/07/will-navarro-gilas.jpeg",
+            "publishedAt": "2022-07-07T04:19:04Z",
+            "content": "MANILA, Philippines The Korean Basketball League (KBL) continues its Filipino recruitment drive as the Seoul Samsung Thunders signed Gilas Pilipinas forward William Navarro on Thursday, July 7.\r\nThe \u2026 [+783 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fadeaway World"
+                "name": "PINKVILLA"
             },
-            "author": "Ishaan Bhattacharya",
-            "title": "Gary Payton II Signs A 3-Year, $28 Million Contract With The Portland Trail Blazers - Fadeaway World",
-            "description": "Gary Payton II has signed a 3-year contract with the Portland Trail Blazers for $28 million dollars, as reported by Shams Charania. GPII is coming off a",
-            "url": "https://fadeawayworld.net/nba-media/gary-payton-ii-signs-a-3-year-28-million-contract-with-the-portland-trail-blazers",
-            "urlToImage": "https://fadeawayworld.net/.image/t_share/MTkwNTgxMDA0MTk1NjAzNTgx/290020320_1253557235450031_113944155417526177_n.jpg",
-            "publishedAt": "2022-07-01T06:00:14Z",
-            "content": "Gary Payton II has signed a 3-year contract with the Portland Trail Blazers for $28 million dollars, as reported by Shams Charania. GPII is coming off a championship with the Golden State Warriors an\u2026 [+1578 chars]"
+            "author": "Akanksha Kacker",
+            "title": "WATCH: SEVENTEEN\u2019s S.Coups, Woozi & Hoshi raise a toast in MV for \u2018CHEERS\u2019 from \u2018SECTOR 17\u2019 - PINKVILLA",
+            "description": "SVT LEADERS, a trio comprising SEVENTEEN2019s unit leaders, has dropped a music video for their new song 2018CHEERS2019.",
+            "url": "https://www.pinkvilla.com/entertainment/watch-seventeen-s-scoups-woozi-hoshi-raise-toast-mv-cheers-sector-17-1156923",
+            "urlToImage": "https://www.pinkvilla.com/files/styles/fbimagesection/public/seventeen_cheers_social.png?itok=FRrUmbAi",
+            "publishedAt": "2022-07-07T04:00:33Z",
+            "content": "At midnight KST on July 7 (8:30 pm IST on July 6), SEVENTEEN\u2019s unit leaders S.Coups, Woozi and Hoshi released their new song \u2018CHEERS\u2019, along with a fiery music video for the track. The SVT LEADERS un\u2026 [+1808 chars]"
         },
         {
             "source": {
@@ -164,103 +190,77 @@
                 "name": "Mb.com.ph"
             },
             "author": null,
-            "title": "Cebu City logs 113 HIV cases; men having sex with men among top causes - Manila Bulletin",
+            "title": "Las Pi\u00f1as LGU opens booster shot registration for immunocompromised minors - Manila Bulletin",
             "description": "The Nation's Leading Newspaper",
-            "url": "https://mb.com.ph/2022/07/01/cebu-city-logs-113-hiv-cases-men-having-sex-with-men-among-top-causes/",
-            "urlToImage": "https://mb.com.ph/wp-content/uploads/2022/07/90462.jpeg",
-            "publishedAt": "2022-07-01T05:52:00Z",
-            "content": "CEBU CITY This city recorded 113 Human Immunodeficiency Virus-Acquired Immunodeficiency Syndrome (HIV-AIDS) cases from January to May this year.\r\nThe Cebu City Health Department (CCHD) reported that \u2026 [+1397 chars]"
+            "url": "https://mb.com.ph/2022/07/07/las-pinas-lgu-opens-booster-shot-registration-for-immunocompromised-minors/",
+            "urlToImage": "https://mb.com.ph/wp-content/uploads/2022/07/91351.jpeg",
+            "publishedAt": "2022-07-07T03:56:00Z",
+            "content": "The Las Pi\u00f1as city government announced that the registration of minors aged 12 to 17 years old under the immunocompromised category is now open to receive their first booster shot.\r\nMayor Imelda Agu\u2026 [+815 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Manila Times"
+                "name": "Medscape"
             },
-            "author": "Mayvelin U. Caraballo",
-            "title": "Govt debt decreases to P12.50T - The Manila Times",
-            "description": "THE amount of outstanding government debt has decreased by almost P260 billion, falling to P12.50 trillion at the end of May.The payback of provisional advances from the Bangko...",
-            "url": "https://www.manilatimes.net/2022/07/01/latest-stories/govt-debt-decreases-to-p1250t/1849407",
-            "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2022/07/01/84818.jpg",
-            "publishedAt": "2022-07-01T05:37:30Z",
-            "content": "THE amount of outstanding government debt has decreased by almost P260 billion, falling to P12.50 trillion at the end of May.\r\nThe payback of provisional advances from the Bangko Sentral ng Pilipinas\u2026 [+897 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Timothy Rapp",
-            "title": "Woj: Warriors Title, Criticism Contributed to Kevin Durant Asking Nets for Trade - Bleacher Report",
-            "description": "\"You talk to people around Kevin Durant and the Nets\u2014Golden State winning the championship this season, and jsu",
-            "url": "https://bleacherreport.com/articles/10040664-woj-warriors-title-criticism-contributed-to-kevin-durant-asking-nets-for-trade",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_3800,q_95/v1656647587/wviwoq3zsgkmejz7ese6.jpg",
-            "publishedAt": "2022-07-01T04:52:30Z",
-            "content": "Jesse D. Garrabrant/NBAE via Getty Images\r\nKevin Durant sent the NBA world reeling on Thursday when he reportedly requested a trade away from the Brooklyn Nets.\r\nDuring Thursday night's SportsCenter,\u2026 [+3603 chars]"
+            "author": "Liam Davenport",
+            "title": "'Myriad' Dermatologic Reactions After COVID-19 Vaccination - Medscape",
+            "description": "COVID-19 vaccination can cause a host of both acute and delayed dermatologic reactions, say Indian researchers, who urge a thorough assessment in every affected patient to demonstrate causality.",
+            "url": "https://www.medscape.com/viewarticle/976691",
+            "urlToImage": "https://img.medscape.com/thumbnail_library/gty_210805_covid_vaccination_800x450.jpg",
+            "publishedAt": "2022-07-06T23:39:41Z",
+            "content": "Editor's note: Find the latest COVID-19 news and guidance in Medscape's Coronavirus Resource Center.\r\nGLASGOW Individuals given COVID-19 vaccination may experience a wide range of dermatologic reacti\u2026 [+6962 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Bandwagon.asia"
-            },
-            "author": "franchesca@bandwagon.sg",
-            "title": "BTS' j-hope explores dark and heavy soundscapes in new single, 'MORE' \u2014 watch - Bandwagon",
-            "description": "j-hope\u00a0is here!\r\nOn 1 July, the\u00a0BTS\u00a0member released his new single\u00a0'MORE' which previews his upcoming solo album,\u00a0Jack In The Box. The track featur...",
-            "url": "https://www.bandwagon.asia/articles/bts-j-hope-explores-his-dark-side-in-new-single-more-release-jack-in-the-box-album-solo-lollapalooza-jung-hoseok-hobi-bighit-hybe-july-2022",
-            "urlToImage": "https://cdn.filestackcontent.com/sILZisuSRQaCRiLVirkP/convert?cache=true&crop=0%2C1621%2C2733%2C1366&crop_first=true&quality=90&w=1920",
-            "publishedAt": "2022-07-01T04:00:00Z",
-            "content": "j-hope\u00a0is here!\r\nOn 1 July, the\u00a0BTS\u00a0member released his new single\u00a0'MORE' which previews his upcoming solo album,\u00a0Jack In The Box. The track features an old-school hip-hop sound that sees the multi-t\u2026 [+1527 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rappler"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Veteran diplomat Enrique Manalo is Marcos' foreign secretary - Rappler",
-            "description": "Enrique Manalo is the first career diplomat to serve as the Philippines' foreign secretary in nearly two decades",
-            "url": "https://www.rappler.com/nation/enrique-manalo-marcos-jr-foreign-affairs-secretary/",
-            "urlToImage": "https://www.rappler.com/tachyon/2022/07/enrique-manalo-dfa-rappler-talk-march-10-2017-file.jpeg",
-            "publishedAt": "2022-07-01T03:55:36Z",
-            "content": "MANILA, Philippines President Ferdinand Marcos Jr. picked Enrique Manalo, a respected career diplomat with over four decades of experience in diplomacy, as the Philippines\u2019 new secretary of foreign a\u2026 [+2512 chars]"
+            "title": "K-pop group aespa calls for action on sustainable development goals at UN Forum - Arirang News",
+            "description": "\uc720\uc5d4 \uac04 \uc5d0\uc2a4\ud30c \"\uc9c0\uc18d\uac00\ub2a5\ud55c \uac1c\ubc1c \ubaa9\ud45c \uc804\uc801\uc73c\ub85c \uc9c0\uc9c0\"At the UN High-Level Political Forum for Sustainable Development, K-pop group aespa called for action on setting necessary goal...",
+            "url": "https://www.youtube.com/watch?v=PZlAWqTHd0w",
+            "urlToImage": "https://i.ytimg.com/vi/PZlAWqTHd0w/maxresdefault.jpg",
+            "publishedAt": "2022-07-06T21:54:07Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Rappler"
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Pola Rubio",
+            "title": "No poultry shortage but some McDonald\u2019s branches unable to serve chicken - Yahoo Philippines News",
+            "description": "McDonald\u2019s Philippines insists there is no poultry shortage in the country but why is the production playing chicken?",
+            "url": "https://ph.news.yahoo.com/no-poultry-shortage-but-some-mc-donalds-branches-unable-to-serve-chicken-210010530.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FvbNgCfuB7hHJIgoVqx7sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/bcbc7a20-fd37-11ec-93bb-b3c6d07aa691",
+            "publishedAt": "2022-07-06T21:00:10Z",
+            "content": "SAN FERNANDO, PHILIPPINES - JUNE 18: Customers queue at a McDonalds restaurant during the launch of the BTS Meal on June 18, 2021 in San Fernando, Pampanga, Philippines. (Photo by Ezra Acayan/Getty I\u2026 [+1980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Huawei Mate Xs 2 hands-on: The sleekest foldable - Rappler",
-            "description": "When folded, it's almost just like a regular smartphone that fits comfortably in your pocket",
-            "url": "https://www.rappler.com/technology/features/huawei-mate-xs-2-hands-on-sleekest-foldable/",
-            "urlToImage": "https://www.rappler.com/tachyon/2022/06/huawei-mate-xs-2-10-scaled.jpg",
-            "publishedAt": "2022-07-01T01:45:29Z",
-            "content": "Disclosure: Huawei lent a unit for the purpose of this article.\r\nThe Huawei Mate Xs 2 is the brands fifth foldable device, following 2019s Huawei Mate X, 2020s Huawei Mate Xs, 2021s Huawei Mate X2, a\u2026 [+4240 chars]"
+            "title": "Mark Magsayo vs Rey Vargas PREVIEW: July 9, 2022 | PBC on SHOWTIME - Premier Boxing Champions",
+            "description": "#MagsayoVargas Fight Night Details: https://pbcham.ps/FightNight-070922Newly-minted WBC Featherweight World Champion Mark Magsayo will make his first title d...",
+            "url": "https://www.youtube.com/watch?v=hFZGc7u6-8s",
+            "urlToImage": "https://i.ytimg.com/vi/hFZGc7u6-8s/maxresdefault.jpg",
+            "publishedAt": "2022-07-06T20:27:02Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Danielle Directo-Meston",
-            "title": "The 70+ Best 4th of July Fashion Deals to Shop All Weekend - Hollywood Reporter",
-            "description": "If your wardrobe (or wallet) can\u2019t wait until Amazon Prime Day (July 12 and 13) or the Nordstrom Anniversary Sale (July 15 to 31) consider restocking this weekend during the many, many 4th of July sales that are already underway. From popular categories inclu\u2026",
-            "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-july-4th-fashion-sales-deals-1235174432/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/best-4th-of-juy-fashion-sales-H-MAIN-2022.jpg?w=1024",
-            "publishedAt": "2022-07-01T00:02:49Z",
-            "content": "If you purchase an independently reviewed product or service through a link on our website, The Hollywood Reporter may receive an affiliate commission.\r\nIf your wardrobe (or wallet) can\u2019t wait until \u2026 [+6817 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rappler"
+                "name": "Healio"
             },
             "author": null,
-            "title": "Tropical Depression Domeng maintains strength, still enhancing southwest monsoon - Rappler",
-            "description": "Rain will persist in parts of Luzon and Western Visayas on Friday, July 1, due to the southwest monsoon enhanced by Tropical Depression Domeng and Severe Tropical Storm Caloy (Chaba)",
-            "url": "https://www.rappler.com/nation/weather/tropical-depression-domeng-southwest-monsoon-pagasa-forecast-july-1-2022-5am/",
-            "urlToImage": "https://www.rappler.com/tachyon/2022/07/domeng-satellite-july-1-2022-5am.jpg",
-            "publishedAt": "2022-06-30T23:05:00Z",
-            "content": "MANILA, Philippines Tropical Depression Domeng maintained its strength in the early hours of Friday, July 1, while Caloy (Chaba) outside the Philippine Area of Responsibility (PAR) intensified from a\u2026 [+2792 chars]"
+            "title": "Study explores perspectives of Indigenous patients with CKD - Healio",
+            "description": "Researchers identified five common themes among Indigenous patients with chronic kidney disease when exploring their relationship with health care, according to data published in Kidney International.&ldquo;Indigenous peoples are defined as those who first li\u2026",
+            "url": "https://www.healio.com/news/nephrology/20220706/study-explores-perspectives-of-indigenous-patients-with-ckd",
+            "urlToImage": "https://www.healio.com/~/media/slack-news/stock-images/nephrology/k/people-as-kidneys362.jpg",
+            "publishedAt": "2022-07-06T19:22:08Z",
+            "content": "Researchers identified five common themes among Indigenous patients with chronic kidney disease when exploring their relationship with health care, according to data published in Kidney International\u2026 [+2772 chars]"
         }
     ]
 }

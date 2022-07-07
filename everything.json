@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 196,
+    "totalResults": 224,
     "articles": [
         {
             "source": {
@@ -105,6 +105,19 @@
             "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
             "publishedAt": "2022-06-30T16:28:00Z",
             "content": "from the such-bullshit dept\r\nWe\u2019ve written about Rappler, the very successful Filipino investigative news organization founded by reporter Maria Ressa, multiple times over the past few years. Rappler\u2026 [+4365 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Anne Quito",
+            "title": "There\u2019s a proposal to rename Manila\u2019s airport after the country\u2019s deadliest dictator",
+            "description": "The bill to rebrand Manila's airport was filed on the first day of Ferdinand \"Bongbong\" Marcos's presidency.",
+            "url": "https://qz.com/2185133/what-is-manilas-airport-called/",
+            "urlToImage": "https://cms.qz.com/wp-content/uploads/2022/07/GettyImages-1240221585-e1657035232815.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+            "publishedAt": "2022-07-06T09:00:42Z",
+            "content": "An airports name gives travelers a first impression of a places character. Its curious then that a Filipino lawmaker wants to rename the Philippiness major international hub after Ferdinand Marcos, t\u2026 [+2939 chars]"
         },
         {
             "source": {
@@ -255,25 +268,25 @@
                 "name": "The Economist"
             },
             "author": "The Economist",
-            "title": "Rodrigo Duterte\u2019s drug war pushed poor families deeper into penury",
-            "description": "The Philippines\u2019 extrajudicial killings have been devastating for the families of victims",
-            "url": "https://www.economist.com/asia/2022/06/02/rodrigo-dutertes-drug-war-pushed-poor-families-deeper-into-penury",
-            "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220604_ASP002.jpg",
-            "publishedAt": "2022-06-02T13:21:29Z",
-            "content": "Reyna was 17 when her boyfriend Gabriel was murdered in front of her. In October 2016 he returned to their home in Bagong Silangan, a crowded slum area in Manila, after a shift working as a rickshaw \u2026 [+4008 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Economist"
-            },
-            "author": "The Economist",
             "title": "What is the legacy of BTS, the world\u2019s biggest boyband?",
             "description": "As they announce a break, they leave behind contradictions",
             "url": "https://www.economist.com/asia/2022/06/23/what-is-the-legacy-of-bts-the-worlds-biggest-boyband",
             "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220625_ASD001.jpg",
             "publishedAt": "2022-06-23T15:24:24Z",
             "content": "One pre-pandemic estimate put the annual economic impact of bts, a South Korean boyband, at $3.7bn a year, making them the most valuable pop act ever. Wherever they go, the seven members sprinkle gol\u2026 [+4476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Diplomat"
+            },
+            "author": "Shannon",
+            "title": "A Counterrevolution in the Philippines: Marcos 2.0",
+            "description": "What can we expect from Ferdinand Marcos Jr.?",
+            "url": "https://thediplomat.com/2022/06/a-counterrevolution-in-the-philippines-marcos-2-0/",
+            "urlToImage": "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-28-172325.jpg",
+            "publishedAt": "2022-06-30T12:08:04Z",
+            "content": "Advertisement\r\nThe German philosopher G.W.F. Hegel once claimed that all great world-historic facts and personages appear, so to speak, twice. For his radical pupil, Karl Marx, the repetition comes w\u2026 [+2612 chars]"
         },
         {
             "source": {
@@ -394,6 +407,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "BBC",
+            "title": "Philippines country profile",
+            "description": "Provides an overview of Philippines, including key events and facts.",
+            "url": "https://news.yahoo.com/philippines-country-profile-164232143.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8.1jM8E7weEiVTNPA09Izg--~B/aD0yNjE7dz00NjQ7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bbc_us_articles_995/17095a164d98e9708f8ff9043f8e6d41",
+            "publishedAt": "2022-07-04T16:42:32Z",
+            "content": "More than 7,000 islands make up the Philippines, but the bulk of its fast-growing population lives on just 11 of them.\r\nMuch of the country is mountainous and prone to earthquakes and eruptions from \u2026 [+3132 chars]"
+        },
+        {
+            "source": {
                 "id": "abc-news-au",
                 "name": "ABC News (AU)"
             },
@@ -420,6 +446,19 @@
         },
         {
             "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Nets Wire",
+            "title": "Report: Nets \u2018might be\u2019 willing to send Kyrie Irving to Charlotte",
+            "description": "Reports indicate that the Nets could be interested in a Kyrie Irving trade that sends young talent over from Charlotte.",
+            "url": "https://netswire.usatoday.com/2022/07/01/report-nets-might-be-willing-to-send-kyrie-irving-to-charlotte/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fCrjuhbaTSgiEigK7r3KMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/wGc2sjSKc5KtdFcjx7r1jw--~B/aD0xMzMzO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nets_wire_usa_today_sports_articles_725/f6c5d4be21dc7864d799773a54a374eb",
+            "publishedAt": "2022-07-01T14:45:49Z",
+            "content": "STORY: The son and namesake of late dictator Ferdinand Marcos was sworn in as president of the Philippines on Thursday (June 30).It was a stunning comeback for one of Asia's most famous political dyn\u2026 [+1631 chars]"
+        },
+        {
+            "source": {
                 "id": "cbc-news",
                 "name": "CBC News"
             },
@@ -443,6 +482,19 @@
             "urlToImage": "https://www.insidehighered.com/sites/default/server_files/media/THE%20Logo%20RGB_35.jpg",
             "publishedAt": "2022-06-09T07:00:00Z",
             "content": "Filipino academics have called for the protection of historical rigor as they steel themselves for Ferdinand \u201cBongbong\u201d Marcos Jr.\u2019s assumption of the country\u2019s presidency later this month.\r\nThe elec\u2026 [+3359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sputnik International"
+            },
+            "author": "Ilya Tsukanov",
+            "title": "Philippines\u2019 New President Expresses Openness to \u2018Military Exchanges\u2019 With China",
+            "description": "Ferdinand Bongbong Marcos Jr. was inaugurated as the Philippines\u2019 president on June 30, taking over from predecessor and ally Rodrigo Duterte. Marcos is the son of Ferdinand Marcos, a US-backed dictator ousted by the People Power Revolution of 1986.",
+            "url": "https://sputniknews.com/20220705/philippines-new-president-expresses-openness-to-military-exchanges-with-china-1096988580.html",
+            "urlToImage": "https://cdnn1.img.sputniknews.com/images/sharing/article/eng/1096988580.jpg?10525033651657040556",
+            "publishedAt": "2022-07-05T16:57:47Z",
+            "content": "https://sputniknews.com/20220705/philippines-new-president-expresses-openness-to-military-exchanges-with-china-1096988580.html\r\nPhilippines New President Expresses Openness to Military Exchanges With\u2026 [+7963 chars]"
         },
         {
             "source": {
@@ -684,38 +736,12 @@
                 "name": "Post Magazine"
             },
             "author": "Raissa Robles, Raissa Robles",
-            "title": "South China Sea: Marcos says he won\u2019t allow Philippines\u2019 rights to be trampled upon",
-            "description": "Bongbong Marcos\u2019 remarks were welcomed by observers who have been critical of Manila\u2019s less aggressive approach towards the dispute since Duterte\u2019s pivot towards China.",
-            "url": "https://www.scmp.com/week-asia/politics/article/3179906/south-china-sea-marcos-says-he-wont-allow-philippines-rights-be",
-            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/31/2f0282e2-67a0-4a93-9b83-21714c6d7633_e6ccf485.jpg?itok=NTI600Ts&v=1654000939",
-            "publishedAt": "2022-06-01T00:30:21Z",
-            "content": "Published: 8:30am, 1 Jun, 2022\r\nUpdated: 8:30am, 1 Jun, 2022"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Post Magazine"
-            },
-            "author": "Raissa Robles, Raissa Robles",
             "title": "Philippines\u2019 Marcos Jnr will take presidential oath at venue linked to father\u2019s brutal legacy",
             "description": "At noon on Thursday, Ferdinand \u201cBongbong\u201d Marcos Jnr will take his presidential oath on the steps of the Philippines\u2019 former legislature, where his late father-president was once confronted by student activists with a black paper-mache coffin and a crocodile.\u2026",
             "url": "https://www.scmp.com/week-asia/politics/article/3183349/philippines-marcos-jnr-will-take-presidential-oath-venue-linked",
             "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/28/62f6ce70-4963-4e84-9b5d-fda033d2ebae_6c06d06a.jpg?itok=BV9_ZNNg&v=1656402742",
             "publishedAt": "2022-06-28T08:59:14Z",
             "content": "Published: 4:59pm, 28 Jun, 2022\r\nUpdated: 4:59pm, 28 Jun, 2022"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Cindy Adams",
-            "title": "Imelda Marcos on her son Philippines President-elect Ferdinand Marcos",
-            "description": "President of the Philippines. Given name? Ferdinand Marcos. Father? Late president of the Philippines Ferdinand Marcos. Mother \u2014 who\u2019s had her own headlines \u2014\u00a0Imelda Marcos.",
-            "url": "https://nypost.com/2022/06/05/imelda-marcos-on-her-son-philippines-president-elect-ferdinand-marcos/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/imelda-marcos.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-06-05T23:36:29Z",
-            "content": "Mama Marcos glows over son\r\nBongbong. President of the Philippines. Given name? Ferdinand Marcos. Father? Late president of the Philippines Ferdinand Marcos. Mother whos had her own headlines \u00a0Imelda\u2026 [+3695 chars]"
         },
         {
             "source": {
@@ -1022,6 +1048,19 @@
                 "name": "Bangkok Post"
             },
             "author": "Kavi Chongkittavorn",
+            "title": "Time to strategise Thai-Philippine ties",
+            "description": "Newly elected Philippine President Ferdinand Marcos Jr met with Deputy Prime Minister and Foreign Minister Don Pramudwinai soon after being sworn in. It was his first meeting with a dignitary from Asean though he had earlier met with representatives from the \u2026",
+            "url": "https://www.bangkokpost.com/opinion/opinion/2339852/time-to-strategise-thai-philippine-ties",
+            "urlToImage": "https://static.bangkokpost.com/media/content/dcx/2022/07/05/4357137_700.jpg",
+            "publishedAt": "2022-07-04T21:00:00Z",
+            "content": "Newly elected Philippine President Ferdinand Marcos Jr met with Deputy Prime Minister and Foreign Minister Don Pramudwinai soon after being sworn in. It was his first meeting with a dignitary from As\u2026 [+7622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bangkok Post"
+            },
+            "author": "Kavi Chongkittavorn",
             "title": "Leadership changes in the Indo-Pacific",
             "description": "New leaders in the Indo-Pacific region -- Australia, South Korea and the Philippines -- will significantly impact the future trajectory of US-China relations. Their policy shifts, even nuances, could either moderate or harden the two powers' strategic rivalri\u2026",
             "url": "https://www.bangkokpost.com/opinion/opinion/2321930/leadership-changes-in-the-indo-pacific",
@@ -1100,38 +1139,25 @@
                 "name": "Richmond.com"
             },
             "author": "AP",
-            "title": "AP News Summary at 5:42 a.m. EDT",
-            "description": "Setting gridlock aside, Congress set to OK gun violence bill",
-            "url": "https://richmond.com/news/national/ap-news-summary-at-5-54-a-m-edt/article_e6c0edce-8a1e-53f3-ab84-a1dc615e4e30.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
-            "publishedAt": "2022-06-24T09:42:23Z",
-            "content": "Setting gridlock aside, Congress set to OK gun violence bill\r\nWASHINGTON (AP) Congress is on the verge of approving a $13 billion bipartisan gun violence bill that seemed unimaginable a month ago. Ho\u2026 [+7409 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Richmond.com"
-            },
-            "author": "AP",
-            "title": "AP News Summary at 6:11 a.m. EDT",
-            "description": "Setting gridlock aside, Congress set to OK gun violence bill",
-            "url": "https://richmond.com/news/national/ap-news-summary-at-6-42-a-m-edt/article_e6c0edce-8a1e-53f3-ab84-a1dc615e4e30.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
-            "publishedAt": "2022-06-24T10:11:52Z",
-            "content": "Setting gridlock aside, Congress set to OK gun violence bill\r\nWASHINGTON (AP) Congress is on the verge of approving a $13 billion bipartisan gun violence bill that seemed unimaginable a month ago. Ho\u2026 [+7281 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Richmond.com"
-            },
-            "author": "AP",
             "title": "AP News Summary at 8:25 a.m. EDT",
             "description": "Ukrainians cheer nation's EU candidacy amid wartime woes",
             "url": "https://richmond.com/news/national/ap-news-summary-at-8-25-a-m-edt/article_e6c0edce-8a1e-53f3-ab84-a1dc615e4e30.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
             "publishedAt": "2022-06-24T12:25:33Z",
             "content": "Ukrainians cheer nation's EU candidacy amid wartime woes\r\nKYIV, Ukraine (AP) The European Unions decision to make Ukraine a candidate for EU membership has offered war-weary Ukrainians a morale boost\u2026 [+7493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Richmond.com"
+            },
+            "author": "AP",
+            "title": "AP News Summary at 9:27 a.m. EDT",
+            "description": "Ukrainians cheer nation's EU candidacy amid wartime woes",
+            "url": "https://richmond.com/news/national/ap-news-summary-at-9-49-a-m-edt/article_e6c0edce-8a1e-53f3-ab84-a1dc615e4e30.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
+            "publishedAt": "2022-06-24T13:27:49Z",
+            "content": "Ukrainians cheer nation's EU candidacy amid wartime woes\r\nKYIV, Ukraine (AP) The European Unions decision to make Ukraine a candidate for EU membership has offered war-weary Ukrainians a morale boost\u2026 [+7539 chars]"
         },
         {
             "source": {
@@ -1152,12 +1178,25 @@
                 "name": "Richmond.com"
             },
             "author": "AP",
-            "title": "AP News Summary at 9:27 a.m. EDT",
-            "description": "Ukrainians cheer nation's EU candidacy amid wartime woes",
-            "url": "https://richmond.com/news/national/ap-news-summary-at-9-49-a-m-edt/article_e6c0edce-8a1e-53f3-ab84-a1dc615e4e30.html",
+            "title": "AP News Summary at 6:11 a.m. EDT",
+            "description": "Setting gridlock aside, Congress set to OK gun violence bill",
+            "url": "https://richmond.com/news/national/ap-news-summary-at-6-42-a-m-edt/article_e6c0edce-8a1e-53f3-ab84-a1dc615e4e30.html",
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
-            "publishedAt": "2022-06-24T13:27:49Z",
-            "content": "Ukrainians cheer nation's EU candidacy amid wartime woes\r\nKYIV, Ukraine (AP) The European Unions decision to make Ukraine a candidate for EU membership has offered war-weary Ukrainians a morale boost\u2026 [+7539 chars]"
+            "publishedAt": "2022-06-24T10:11:52Z",
+            "content": "Setting gridlock aside, Congress set to OK gun violence bill\r\nWASHINGTON (AP) Congress is on the verge of approving a $13 billion bipartisan gun violence bill that seemed unimaginable a month ago. Ho\u2026 [+7281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Richmond.com"
+            },
+            "author": "AP",
+            "title": "AP News Summary at 5:42 a.m. EDT",
+            "description": "Setting gridlock aside, Congress set to OK gun violence bill",
+            "url": "https://richmond.com/news/national/ap-news-summary-at-5-54-a-m-edt/article_e6c0edce-8a1e-53f3-ab84-a1dc615e4e30.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
+            "publishedAt": "2022-06-24T09:42:23Z",
+            "content": "Setting gridlock aside, Congress set to OK gun violence bill\r\nWASHINGTON (AP) Congress is on the verge of approving a $13 billion bipartisan gun violence bill that seemed unimaginable a month ago. Ho\u2026 [+7409 chars]"
         },
         {
             "source": {
@@ -1262,45 +1301,6 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
             "publishedAt": "2022-06-24T05:58:04Z",
             "content": "Setting gridlock aside, Congress set to OK gun violence bill\r\nWASHINGTON (AP) Congress is on the verge of approving a $13 billion bipartisan gun violence bill that seemed unimaginable a month ago. Ho\u2026 [+7649 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Richmond.com"
-            },
-            "author": "AP",
-            "title": "AP News Summary at 12:41 a.m. EDT",
-            "description": "Senate OKs landmark gun violence bill, House passage is next",
-            "url": "https://richmond.com/news/national/ap-news-summary-at-12-41-a-m-edt/article_e6c0edce-8a1e-53f3-ab84-a1dc615e4e30.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315",
-            "publishedAt": "2022-06-24T04:41:49Z",
-            "content": "Senate OKs landmark gun violence bill, House passage is next\r\nWASHINGTON (AP) The Senate has approved a bipartisan gun violence bill. The vote late Thursday clears the way for expected House passage \u2026 [+8704 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Associated Press",
-            "title": "Ferdinand Marcos Jr. takes helm in Philippines, ignores father\u2019s abuses",
-            "description": "In his inaugural speech, Ferdinand Marcos Jr. defended the legacy of his late father as dictator of the Philippines.",
-            "url": "https://nypost.com/2022/06/30/ferdinand-marcos-sr-s-philippines-past-glossed-over-by-son/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/President-Ferdinand-Marcos-Jr_-99.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-06-30T20:21:48Z",
-            "content": "MANILA, Philippines Ferdinand Marcos Jr., the namesake son of an ousted dictator, praised his father\u2019s legacy and glossed over its violent past as he was sworn in as Philippine president Thursday aft\u2026 [+7136 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Billings Gazette"
-            },
-            "author": "AP",
-            "title": "AP News Summary at 2:12 a.m. EDT",
-            "description": "Setting gridlock aside, Congress set to OK gun violence bill",
-            "url": "https://billingsgazette.com/news/national/ap-news-summary-at-2-22-a-m-edt/article_3374c068-79a4-5786-873e-fee967e0dbf8.html",
-            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/custom/image/c72cf8ac-c550-11ea-86bd-3761faee86a6.jpg?resize=600%2C315",
-            "publishedAt": "2022-06-24T06:12:12Z",
-            "content": "Setting gridlock aside, Congress set to OK gun violence bill\r\nWASHINGTON (AP) Congress is on the verge of approving a $13 billion bipartisan gun violence bill that seemed unimaginable a month ago. Ho\u2026 [+7693 chars]"
         }
     ]
 }
